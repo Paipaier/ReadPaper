@@ -7,7 +7,7 @@ KDD Process:
 	3. Data Mining 数据挖掘
 	4. Interpretation & Evaluation 数据解释与评估
 ### 2.  数据挖掘应用
-	没有明确的答案，合理即可。
+没有明确的答案，合理即可。
 	1. Object detection 对象检测
 	2. Text classification 文本分类
 	3. Speech recognition 语音识别
