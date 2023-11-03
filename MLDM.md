@@ -17,6 +17,6 @@ KDD Process:
 	7. ...
 ## 二．学习的可行性
 ### 1.  Hoeffding 不等式
-	证明学习可行性的方法，下面的Hoeffding不等式说明了学习的可行性
-![输入图片说明](/imgs/2023-11-03/G1LbGIeLmtkzillI.png)
+证明学习可行性的方法，下面的Hoeffding不等式说明了学习的可行性
+![Hoeffding不等式](/imgs/2023-11-03/G1LbGIeLmtkzillI.png)
 
